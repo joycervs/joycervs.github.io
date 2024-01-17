@@ -28,7 +28,7 @@ This is a portfolio project developed as part of the Origamid course.
 
 ## Technologies Used
 
-- HTML5 (with semantic tags such as <nav>, <article>, <ul>, etc.)
+- HTML5 (with semantic tags such as `<nav>`, `<article>`, `<ul>`, etc.)
 - CSS (using modern properties and responsive web design)
 
 ## File Structure
